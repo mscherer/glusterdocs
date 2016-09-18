@@ -16,8 +16,8 @@ in many respects forming a single computer.
 
 ### Distributed File System
 
-A file system that allows multiple clients to concurrently access data
-over a computer network
+A file system with data shared over a cluster of computer using a network
+to communicate.
 
 ### FUSE
 
